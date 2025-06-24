@@ -16,7 +16,10 @@
 - ⚡ Fun fact: I love solving logic puzzles & coding challenges
 
 ---
+## 📌 Featured Repositories (Pinned below)
 
+- 🔧 [Chrome Extension for DSA/CP](https://github.com/vatsaljoshi1005/dsa-cp-extension)
+---
 
 ### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
