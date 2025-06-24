@@ -44,9 +44,9 @@
 
 - 📧 Email: thevatsaljoshi@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/vatsal-joshi-077b72291](www.linkedin.com/in/vatsal-joshi-077b72291)  
-- 💻 Codeforces: [codeforces.com/profile/Vatsal_Joshi](https://www.codechef.com/users/vatsaljoshi)  
+- 💻 Codeforces: [codeforces.com/profile/Vatsal_Joshi]()  
 - 📘 LeetCode: [https://leetcode.com/u/vatsal7124/](https://leetcode.com/u/vatsal7124/)
-- 💻 Codechef: [https://www.codechef.com/users/vatsaljoshi](https://codechef.com)
+- 💻 Codechef: [https://www.codechef.com/users/vatsaljoshi](https://www.codechef.com/users/vatsaljoshi)
 
 ---
 
