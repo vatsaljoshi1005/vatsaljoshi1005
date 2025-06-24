@@ -9,10 +9,11 @@
 
 ### 🚀 About Me
 
-- 🧑‍🎓 I'm currently studying **Computer Science Engineering**
-- 🔭 Working on **React Projects**, **Chrome Extensions**, and **CP Profiles**
-- 🧠 Exploring **Google Cloud**, **Vertex AI**, and **Open Source Contributions**
-- ⚡ Fun fact: I love solving logic puzzles & coding challenges
+🧑‍🎓 I'm currently studying Computer Science Engineering
+✅ Built a Chrome Extension to recommend DSA & CP questions daily
+🔭 Working on personal projects using React and solving challenges on Codeforces
+🧠 Exploring Google Cloud, Vertex AI, and Open Source Contributions
+⚡ Fun fact: I love solving logic puzzles & coding challenges
 
 ---
 
@@ -44,11 +45,12 @@
 
 - 📧 Email: thevatsaljoshi@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/vatsal-joshi-077b72291/](https://www.linkedin.com/in/vatsal-joshi-077b72291/)  
-- 💻 Codeforces: [codeforces.com/profile/Vatsal_Joshi]()  
-- 📘 LeetCode: [https://leetcode.com/u/vatsal7124/](https://leetcode.com/u/vatsal7124/)
+- 💻 Codeforces: [codeforces.com/profile/Vatsal_Joshi](codeforces.com/profile/Vatsal_Joshi)
 - 💻 Codechef: [https://www.codechef.com/users/vatsaljoshi](https://www.codechef.com/users/vatsaljoshi)
+- 💻 LeetCode: [https://leetcode.com/u/vatsal7124/](https://leetcode.com/u/vatsal7124/)
+
 
 ---
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
