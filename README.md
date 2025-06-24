@@ -43,7 +43,7 @@
 ### 🌐 Let's Connect
 
 - 📧 Email: thevatsaljoshi@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/vatsal-joshi-077b72291](www.linkedin.com/in/vatsal-joshi-077b72291)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/vatsal-joshi-077b72291/](https://www.linkedin.com/in/vatsal-joshi-077b72291/)  
 - 💻 Codeforces: [codeforces.com/profile/Vatsal_Joshi]()  
 - 📘 LeetCode: [https://leetcode.com/u/vatsal7124/](https://leetcode.com/u/vatsal7124/)
 - 💻 Codechef: [https://www.codechef.com/users/vatsaljoshi](https://www.codechef.com/users/vatsaljoshi)
