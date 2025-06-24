@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-🧑‍🎓 I'm currently studying Computer Science Engineering
-✅ Built a Chrome Extension to recommend DSA & CP questions daily
-🔭 Working on personal projects using React and solving challenges on Codeforces
-🧠 Exploring Google Cloud, Vertex AI, and Open Source Contributions
-⚡ Fun fact: I love solving logic puzzles & coding challenges
+-🧑‍🎓 I'm currently studying Computer Science Engineering
+-✅ Built a Chrome Extension to recommend DSA & CP questions daily
+-🔭 Working on personal projects using React and solving challenges on Codeforces
+-🧠 Exploring Google Cloud, Vertex AI, and Open Source Contributions
+-⚡ Fun fact: I love solving logic puzzles & coding challenges
 
 ---
 
