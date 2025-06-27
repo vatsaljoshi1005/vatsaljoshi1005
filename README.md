@@ -19,7 +19,7 @@
 ## 📌 Featured Projects (Pinned below)
 
 - 🔧 [Chrome Extension for DSA/CP](https://github.com/vatsaljoshi1005/dsa-cp-extension)
-- 💻 [movies-app using react js] (https://github.com/vatsaljoshi1005/movies-app.git)
+- 💻 [movies-app using react js](https://github.com/vatsaljoshi1005/movies-app.git)
 ---
 
 ### 🛠️ Tech Stack
