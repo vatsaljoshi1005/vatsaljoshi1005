@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergrad | Developer | Cloud Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=2nd+Year+CS+Student;Passionate+Web+Dev;Leetcode+and+CP+Lover;Google+Cloud+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+CS+Student;Passionate+Web+Dev;Leetcode+and+CP+Lover;Google+Cloud+Learner&center=true&width=500&height=45">
 </p>
 
 ---
