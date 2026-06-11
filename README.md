@@ -17,7 +17,9 @@
 
 ---
 ## 📌 Featured Projects (Pinned below)
-
+- 📄 [AI Resume Optimizer](https://github.com/vatsaljoshi1005/AI-Resume-Optimizer)
+- 🤖 [AI Expense Buddy](https://github.com/vatsaljoshi1005/AI-EXPENSE-BUDDY) | [Live Demo 🚀](https://ai-expense-buddy-finchat.vercel.app/)
+- 🧠 [ML Based Page Replacement Policy](https://github.com/vatsaljoshi1005/page_replacement)
 - 🔧 [Chrome Extension for DSA/CP](https://github.com/vatsaljoshi1005/dsa-cp-extension)
 - 💻 [movies-app using react js](https://github.com/vatsaljoshi1005/movies-app.git)
 ---
