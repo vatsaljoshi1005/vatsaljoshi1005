@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vatsal Joshi</h1>
-<h3 align="center">CS Undergrad | Developer | Cloud Enthusiast | Competitive Programmer</h3>
+<h3 align="center">CS Undergrad | Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+CS+Student;Passionate+Web+Dev;Leetcode+and+CP+Lover;Google+Cloud+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=4th+Year+CS+Student;Passionate+Web+Dev;Leetcode+and+CP+Lover&center=true&width=500&height=45">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍🎓 I'm currently studying **Computer Science Engineering**
+- 🧑‍🎓 Final-year **Computer Science & Engineering** student.
 - ✅ Built a **Chrome Extension** to recommend DSA & CP questions daily
-- 🔭 Working on personal projects using **React** and solving challenges on **Codeforces**
-- 🧠 Exploring **Google Cloud**, **Vertex AI**, and **Open Source Contributions**
-- ⚡ Fun fact: I love solving logic puzzles & coding challenges
+- 🔭 Actively diving deep into **Data Structures & Algorithms (DSA)** and exploring the fundamentals of **Machine Learning (ML)**.
+- 💻 **Competitive Programming Lover** — I genuinely enjoy breaking down logic puzzles and competing in contests.
+- ⚡ Fun fact: I'm a **state-level chess player**.
 
 ---
 ## 📌 Featured Projects (Pinned below)
